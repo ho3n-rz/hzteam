@@ -238,7 +238,7 @@ function create_config( )
 	"welcome",
 	"msg_checks"
     },
-    sudo_users = {159359772,158429963,0},--Sudo users
+    sudo_users = {219587559},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ًں‡®.ًں‡³.ًں‡¹.ًں‡ھ.ًں‡±â„¢ Telegram Bot v2 
